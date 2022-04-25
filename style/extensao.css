@@ -1,0 +1,38 @@
+:root{
+    --vermelho: #E50914;
+    --preta: #141414;
+
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--preta); 
+    font-family: 'Arial', Times, Serif;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    
+ }
+
+ header{
+    margin-top: 25px;
+    margin-bottom: 30px; 
+    
+ }
+
+ .titulo{
+    padding: 15px;
+  
+ }
+
+ .container{
+    text-align: left;
+    padding: 15px 30px;
+    width: 75%;
+ }
+
