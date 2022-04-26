@@ -1,6 +1,9 @@
 <h3 align = "center" fontSize="60px">
   Enjoyflix: Clone da plataforma de streaming Netflix</h3>
 
+<h3 align = "center" fontSize="20px">
+  Acesse: https://rochellema.github.io/projeto-enjoyflix/ </h3>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/103073732/165357154-87986fdc-e91e-4c76-ae47-56d6dd4f1f2e.gif" width="650px" />
 </div>
@@ -23,7 +26,7 @@
 <h3>🙌Agradecimento</h3>
 
 <p>Durante a realização do projeto, contei com as orientações do Professor Felipe Aguiar, da Digital Inovation One.
-  Deixo aqui o meu agradecimento a Instituição e ao Professor que possui uma excelente didática.</p>
+   Deixo aqui o meu agradecimento a Instituição e ao Professor que possui uma excelente didática.</p>
   
 
 
