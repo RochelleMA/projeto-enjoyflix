@@ -45,7 +45,7 @@ header nav a:hover{
 /*filme principal*/
 .filme.principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url(https://user-images.githubusercontent.com/103073732/165370284-2e9a2671-490e-470e-9f0a-1442420fe17a);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('/img/mini.jpg');
 
     height: 500px;
     background-size:cover;
