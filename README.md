@@ -24,7 +24,7 @@
 
 <h3>🙌Agradecimento</h3>
 
-<p>Durante a realização do projeto, contei com as orientações do Professor Felipe Aguiar, da Digital Inovation One.
+<p>Durante a realização do projeto, contei com as orientações do Professor <a href="https://github.com/duribeiro">Felipe Aguiar</a>, da Digital Inovation One.
    Deixo aqui o meu agradecimento a Instituição e ao Professor que possui uma excelente didática.</p>
   
 
